@@ -1,2 +1,3 @@
 # hello-world
 Exploratory repository
+An expanded description of the exploratory repository....this seems to makes sense so far....
